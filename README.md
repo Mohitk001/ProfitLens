@@ -14,4 +14,3 @@ This project features an interactive **Power BI dashboard** designed to visualiz
 - **Data Source**: [Specify your data source, e.g., CSV, Excel, SQL database, etc.]
 - **Optional**: Any additional tools (e.g., Python for data cleaning, Excel for preprocessing).
 
-## Project Structure
